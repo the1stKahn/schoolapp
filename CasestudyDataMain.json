@@ -12,7 +12,7 @@
     },
     {
       "Id": "ULTB",
-	  "Brand": "Adidas",
+      "Brand": "Adidas",
       "ProductName": "Ultraboost",
       "GraphicName": "ultraboost.png",
       "CostPrice": "120.0",
@@ -23,7 +23,7 @@
     },
     {
       "Id": "STSM",
-	  "Brand": "Adidas",
+      "Brand": "Adidas",
       "ProductName": "Stan Smith",
       "GraphicName": "stan_smith.png",
       "CostPrice": "70.0",
@@ -34,7 +34,7 @@
     },
     {
       "Id": "NMDR",
-	  "Brand": "Adidas",
+      "Brand": "Adidas",
       "ProductName": "NMD R1",
       "GraphicName": "nmd_r1.png",
       "CostPrice": "90.0",
@@ -45,7 +45,7 @@
     },
     {
       "Id": "GAZE",
-	  "Brand": "Adidas",
+      "Brand": "Adidas",
       "ProductName": "Gazelle",
       "GraphicName": "gazelle.png",
       "CostPrice": 60.0,
@@ -57,7 +57,7 @@
 
     {
       "Id": "ARMX",
-	  "Brand": "Nike",
+      "Brand": "Nike",
       "ProductName": "Air Max 90",
       "GraphicName": "air_max_90.png",
       "CostPrice": 80.0,
@@ -68,7 +68,7 @@
     },
     {
       "Id": "RTET",
-	  "Brand": "Nike",
+      "Brand": "Nike",
       "ProductName": "React Element 55",
       "GraphicName": "react_element_55.png",
       "CostPrice": 100.0,
@@ -79,7 +79,7 @@
     },
     {
       "Id": "ARJN",
-	  "Brand": "Nike",
+      "Brand": "Nike",
       "ProductName": "Air Jordan 1",
       "GraphicName": "air_jordan_1.png",
       "CostPrice": 150.0,
@@ -90,7 +90,7 @@
     },
     {
       "Id": "BLZM",
-	  "Brand": "Nike",
+      "Brand": "Nike",
       "ProductName": "Blazer Mid '77",
       "GraphicName": "blazer_mid_77.png",
       "CostPrice": 90.0,
@@ -101,7 +101,7 @@
     },
     {
       "Id": "ARFR",
-	  "Brand": "Nike",
+      "Brand": "Nike",
       "ProductName": "Air Force 1",
       "GraphicName": "air_force_1.png",
       "CostPrice": 120.0,
@@ -112,7 +112,7 @@
     },
 {
       "Id": "SUCL",
-	  "Brand": "Puma",
+      "Brand": "Puma",
       "ProductName": "Suede Classic",
       "GraphicName": "suede_classic.png",
       "CostPrice": 60.0,
@@ -123,7 +123,7 @@
     },
     {
       "Id": "RSXT",
-	  "Brand": "Puma",
+      "Brand": "Puma",
       "ProductName": "RS-X",
       "GraphicName": "rs_x.png",
       "CostPrice": 90.0,
@@ -134,7 +134,7 @@
     },
     {
       "Id": "CYCT",
-	  "Brand": "Puma",
+      "Brand": "Puma",
       "ProductName": "Clyde Court",
       "GraphicName": "clyde_court.png",
       "CostPrice": 110.0,
@@ -145,7 +145,7 @@
     },
     {
       "Id": "CEVE",
-	  "Brand": "Puma",
+      "Brand": "Puma",
       "ProductName": "Cell Venom",
       "GraphicName": "cell_venom.png",
       "CostPrice": 80.0,
@@ -156,7 +156,7 @@
     },
     {
       "Id": "FTYC",
-	  "Brand": "Puma",
+      "Brand": "Puma",
       "ProductName": "Fenty Creeper",
       "GraphicName": "fenty_creeper.png",
       "CostPrice": 130.0,
@@ -167,7 +167,7 @@
     },
  {
       "Id": "CLTH",
-	  "Brand": "Reebok",
+      "Brand": "Reebok",
       "ProductName": "Classic Leather",
       "GraphicName": "Minimalist Logo",
       "CostPrice": 70.99,
@@ -178,7 +178,7 @@
     },
     {
       "Id": "NAOX",
-	  "Brand": "Reebok",
+      "Brand": "Reebok",
       "ProductName": "Nano X",
       "GraphicName": "Performance Fitness",
       "CostPrice": 110.99,
@@ -189,7 +189,7 @@
     },
     {
       "Id": "ZGKT",
-	  "Brand": "Reebok",
+      "Brand": "Reebok",
       "ProductName": "Zig Kinetica",
       "GraphicName": "Energy Burst",
       "CostPrice": 99.99,
@@ -200,7 +200,7 @@
     },
     {
       "Id": "CLBC",
-	  "Brand": "Reebok",
+      "Brand": "Reebok",
       "ProductName": "Club C 85",
       "GraphicName": "Classic Retro",
       "CostPrice": 80.0,
@@ -211,7 +211,7 @@
     },
     {
       "Id": "FTGY",
-	  "Brand": "Reebok",
+      "Brand": "Reebok",
       "ProductName": "Floatride Energy",
       "GraphicName": "Lightweight Runner",
       "CostPrice": 90.0,
