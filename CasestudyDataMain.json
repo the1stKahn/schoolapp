@@ -29,7 +29,7 @@
       "CostPrice": "70.0",
       "MSRP": "120.0",
       "QtyOnHand": "75",
-      "QtyOnBackOrder": 5,
+      "QtyOnBackOrder": "5",
       "Description": "Classic and timeless tennis shoes with a clean design."
     },
     {
@@ -48,9 +48,9 @@
       "Brand": "Adidas",
       "ProductName": "Gazelle",
       "GraphicName": "gazelle.png",
-      "CostPrice": 60.0,
-      "MSRP": 100.0,
-      "QtyOnHand": 80,
+      "CostPrice": "60.0",
+      "MSRP": "100.0",
+      "QtyOnHand": "80",
       "QtyOnBackOrder": "2",
       "Description": "Retro-style suede shoes with a vintage look."
     },
@@ -60,10 +60,10 @@
       "Brand": "Nike",
       "ProductName": "Air Max 90",
       "GraphicName": "air_max_90.png",
-      "CostPrice": 80.0,
-      "MSRP": 120.0,
-      "QtyOnHand": 100,
-      "QtyOnBackOrder": 0,
+      "CostPrice": "80.0",
+      "MSRP": "120.0",
+      "QtyOnHand": "100",
+      "QtyOnBackOrder": "0",
       "Description": "Iconic Nike Air Max 90 shoes with visible Air cushioning."
     },
     {
@@ -71,10 +71,10 @@
       "Brand": "Nike",
       "ProductName": "React Element 55",
       "GraphicName": "react_element_55.png",
-      "CostPrice": 100.0,
-      "MSRP": 160.0,
-      "QtyOnHand": 50,
-      "QtyOnBackOrder": 5,
+      "CostPrice": "100.0",
+      "MSRP": "160.0",
+      "QtyOnHand": "50",
+      "QtyOnBackOrder": "5",
       "Description": "Comfortable and stylish Nike React Element 55 shoes."
     },
     {
@@ -82,10 +82,10 @@
       "Brand": "Nike",
       "ProductName": "Air Jordan 1",
       "GraphicName": "air_jordan_1.png",
-      "CostPrice": 150.0,
-      "MSRP": 200.0,
-      "QtyOnHand": 75,
-      "QtyOnBackOrder": 0,
+      "CostPrice": "150.0",
+      "MSRP": "200.0",
+      "QtyOnHand": "75",
+      "QtyOnBackOrder": "0",
       "Description": "Legendary Nike Air Jordan 1 basketball shoes."
     },
     {
@@ -93,10 +93,10 @@
       "Brand": "Nike",
       "ProductName": "Blazer Mid '77",
       "GraphicName": "blazer_mid_77.png",
-      "CostPrice": 90.0,
-      "MSRP": 140.0,
-      "QtyOnHand": 25,
-      "QtyOnBackOrder": 15,
+      "CostPrice": "90.0",
+      "MSRP": "140.0",
+      "QtyOnHand": "25",
+      "QtyOnBackOrder": "15",
       "Description": "Classic Nike Blazer Mid '77 shoes with a vintage feel."
     },
     {
@@ -104,10 +104,10 @@
       "Brand": "Nike",
       "ProductName": "Air Force 1",
       "GraphicName": "air_force_1.png",
-      "CostPrice": 120.0,
-      "MSRP": 180.0,
-      "QtyOnHand": 80,
-      "QtyOnBackOrder": 2,
+      "CostPrice": "120.0",
+      "MSRP": "180.0",
+      "QtyOnHand": "80",
+      "QtyOnBackOrder": "2",
       "Description": "Timeless Nike Air Force 1 sneakers for everyday wear."
     },
 {
@@ -115,10 +115,10 @@
       "Brand": "Puma",
       "ProductName": "Suede Classic",
       "GraphicName": "suede_classic.png",
-      "CostPrice": 60.0,
-      "MSRP": 100.0,
-      "QtyOnHand": 100,
-      "QtyOnBackOrder": 0,
+      "CostPrice": "60.0",
+      "MSRP": "100.0",
+      "QtyOnHand": "100",
+      "QtyOnBackOrder": "0",
       "Description": "Timeless Puma Suede Classic shoes with a retro design."
     },
     {
@@ -126,10 +126,10 @@
       "Brand": "Puma",
       "ProductName": "RS-X",
       "GraphicName": "rs_x.png",
-      "CostPrice": 90.0,
-      "MSRP": 140.0,
-      "QtyOnHand": 50,
-      "QtyOnBackOrder": 5,
+      "CostPrice": "90.0",
+      "MSRP": "140.0",
+      "QtyOnHand": "50",
+      "QtyOnBackOrder": "5",
       "Description": "Puma RS-X sneakers with a chunky and bold silhouette."
     },
     {
@@ -137,10 +137,10 @@
       "Brand": "Puma",
       "ProductName": "Clyde Court",
       "GraphicName": "clyde_court.png",
-      "CostPrice": 110.0,
-      "MSRP": 160.0,
-      "QtyOnHand": 75,
-      "QtyOnBackOrder": 0,
+      "CostPrice": "110.0",
+      "MSRP": "160.0",
+      "QtyOnHand": "75",
+      "QtyOnBackOrder": "0",
       "Description": "Puma Clyde Court basketball shoes with stylish aesthetics."
     },
     {
@@ -148,10 +148,10 @@
       "Brand": "Puma",
       "ProductName": "Cell Venom",
       "GraphicName": "cell_venom.png",
-      "CostPrice": 80.0,
-      "MSRP": 120.0,
-      "QtyOnHand": 25,
-      "QtyOnBackOrder": 15,
+      "CostPrice": "80.0",
+      "MSRP": "120.0",
+      "QtyOnHand": "25",
+      "QtyOnBackOrder": "15",
       "Description": "Puma Cell Venom sneakers inspired by '90s running shoes."
     },
     {
@@ -159,10 +159,10 @@
       "Brand": "Puma",
       "ProductName": "Fenty Creeper",
       "GraphicName": "fenty_creeper.png",
-      "CostPrice": 130.0,
-      "MSRP": 180.0,
-      "QtyOnHand": 80,
-      "QtyOnBackOrder": 2,
+      "CostPrice": "130.0",
+      "MSRP": "180.0",
+      "QtyOnHand": "80",
+      "QtyOnBackOrder": "2",
       "Description": "Puma Fenty Creeper shoes designed by Rihanna."
     },
  {
@@ -170,10 +170,10 @@
       "Brand": "Reebok",
       "ProductName": "Classic Leather",
       "GraphicName": "Minimalist Logo",
-      "CostPrice": 70.99,
-      "MSRP": 100.0,
-      "QtyOnHand": 100,
-      "QtyOnBackOrder": 40,
+      "CostPrice": "70.99",
+      "MSRP": "100.0",
+      "QtyOnHand": "100",
+      "QtyOnBackOrder": "40",
       "Description": "Iconic Reebok sneaker with a clean and timeless design"
     },
     {
@@ -181,10 +181,10 @@
       "Brand": "Reebok",
       "ProductName": "Nano X",
       "GraphicName": "Performance Fitness",
-      "CostPrice": 110.99,
-      "MSRP": 160.0,
-      "QtyOnHand": 50,
-      "QtyOnBackOrder": 25,
+      "CostPrice": "110.99",
+      "MSRP": "160.0",
+      "QtyOnHand": "50",
+      "QtyOnBackOrder": "25",
       "Description": "Cross-training shoe designed for high-intensity workouts"
     },
     {
@@ -192,10 +192,10 @@
       "Brand": "Reebok",
       "ProductName": "Zig Kinetica",
       "GraphicName": "Energy Burst",
-      "CostPrice": 99.99,
-      "MSRP": 140.0,
-      "QtyOnHand": 15,
-      "QtyOnBackOrder": 0,
+      "CostPrice": "99.99",
+      "MSRP": "140.0",
+      "QtyOnHand": "15",
+      "QtyOnBackOrder": "0",
       "Description": "Modern running shoe with a unique zigzag sole"
     },
     {
@@ -203,10 +203,10 @@
       "Brand": "Reebok",
       "ProductName": "Club C 85",
       "GraphicName": "Classic Retro",
-      "CostPrice": 80.0,
-      "MSRP": 120.99,
-      "QtyOnHand": 80,
-      "QtyOnBackOrder": 50,
+      "CostPrice": "80.0",
+      "MSRP": "120.99",
+      "QtyOnHand": "80",
+      "QtyOnBackOrder": "50",
       "Description": "Vintage-inspired sneaker with a retro look"
     },
     {
@@ -214,10 +214,10 @@
       "Brand": "Reebok",
       "ProductName": "Floatride Energy",
       "GraphicName": "Lightweight Runner",
-      "CostPrice": 90.0,
-      "MSRP": 130.0,
-      "QtyOnHand": 30,
-      "QtyOnBackOrder": 10,
+      "CostPrice": "90.0",
+      "MSRP": "130.0",
+      "QtyOnHand": "30",
+      "QtyOnBackOrder": "10",
       "Description": "Lightweight running shoe with responsive cushioning"
     }
   ]
