@@ -8,7 +8,7 @@
       "MSRP": "100.0",
       "QtyOnHand": "100",
       "QtyOnBackOrder": "0",
-      "Description": "Classic and iconic Adidas Superstar shoes."
+      "Description": "The Adidas Superstar is a classic and iconic athletic shoe that has become a cultural icon since its introduction in. Designed primarily for basketball, the Superstar quickly transcended its original purpose and became a fashion staple across various styles and subcultures. The shoe features a low-top design with a sleek and clean silhouette, characterized by its prominent rubber toe cap, which distinguishes it from other sneakers. The upper is typically made of leather or synthetic materials, providing durability and comfort. The three signatures"
     },
     {
       "Id": "ULTB",
@@ -19,7 +19,7 @@
       "MSRP": "180.0",
       "QtyOnHand": "50",
       "QtyOnBackOrder": "10",
-      "Description": "Premium cushioned running shoes with Boost technology."
+      "Description": "The Adidas Ultra Boost is a cutting-edge running shoe that combines style, comfort, and performance in a sleek and modern package. First introduced, the Ultra Boost quickly gained popularity among athletes and sneaker enthusiasts alike for its revolutionary design and exceptional features. The standout feature of the Ultra Boost is its advanced cushioning technology, which utilizes "
     },
     {
       "Id": "STSM",
@@ -30,7 +30,7 @@
       "MSRP": "120.0",
       "QtyOnHand": "75",
       "QtyOnBackOrder": "5",
-      "Description": "Classic and timeless tennis shoes with a clean design."
+      "Description": "The upper of the Ultra Boost is typically crafted from a flexible and breathable Primeknit material. The Primeknit offers a snug and adaptive fit, wrapping around the foot like a sock and providing excellent support while allowing natural foot movement. This design ensures a comfortable and secure fit for various foot shapes. Another notable aspect of the Ultra Boost is the Torsion System, a thermoplastic bridge that supports the midfoot and enhances stability during running or other physical activities."
     },
     {
       "Id": "NMDR",
@@ -41,7 +41,7 @@
       "MSRP": "150.0",
       "QtyOnHand": "25",
       "QtyOnBackOrder": "20",
-      "Description": "Modern sneakers with a sock-like construction and responsive cushioning."
+      "Description": "The Adidas NMD R is a popular and fashionable lifestyle sneaker that combines modern design elements with innovative comfort technology. First introduced, the NMD R quickly gained attention for its unique retro aesthetics and contemporary materials blend. The design of the NMD R draws inspiration from classic Adidas running shoes, but it incorporates modern features for enhanced performance and comfort. The shoe upper typically features a combination of breathable and flexible Primeknit material "
     },
     {
       "Id": "GAZE",
@@ -52,7 +52,7 @@
       "MSRP": "100.0",
       "QtyOnHand": "80",
       "QtyOnBackOrder": "2",
-      "Description": "Retro-style suede shoes with a vintage look."
+      "Description": "One of the most recognizable aspects of the NMD R is the distinctive midsole design. It features Adidas' proprietary Boost technology, which consists of thousands of responsive and energy-returning foam pellets. This Boost midsole technology offers excellent cushioning and responsiveness, making every step feel light and energized. The NMD R also features molded EVA inserts on the midsole, adding extra stability and support to the shoe. These inserts give the shoe a distinct look while enhancing it is overall "
     },
 
     {
@@ -64,7 +64,7 @@
       "MSRP": "120.0",
       "QtyOnHand": "100",
       "QtyOnBackOrder": "0",
-      "Description": "Iconic Nike Air Max 90 shoes with visible Air cushioning."
+      "Description": "The Nike Air Max 90, also known as the Air Max III, is a timeless and iconic sneaker that has left a significant impact on both the sneaker industry and popular culture since its debut in 1990. Designed by legendary Nike designer Tinker Hatfield, the Air Max 90 was an evolution of the Air Max line, incorporating innovative features and a bold design."
     },
     {
       "Id": "RTET",
@@ -75,7 +75,7 @@
       "MSRP": "160.0",
       "QtyOnHand": "50",
       "QtyOnBackOrder": "5",
-      "Description": "Comfortable and stylish Nike React Element 55 shoes."
+      "Description": "The Nike React Element 55 is a stylish and comfortable lifestyle sneaker that combines modern design with innovative cushioning technology. Introduced as a follow-up to the Nike React Element 87, the React Element 55 offers a more accessible and affordable version of the popular silhouette while still delivering on both style and performance."
     },
     {
       "Id": "ARJN",
@@ -86,7 +86,7 @@
       "MSRP": "200.0",
       "QtyOnHand": "75",
       "QtyOnBackOrder": "0",
-      "Description": "Legendary Nike Air Jordan 1 basketball shoes."
+      "Description": "The Nike Air Jordan 1, often referred to simply as the Jordan 1 or AJ1, is one of the most iconic and influential sneakers in the history of footwear. It was the first signature shoe designed for and endorsed by the legendary basketball player Michael Jordan, and its release in 1985 marked the beginning of the Jordan Brand under Nike."
     },
     {
       "Id": "BLZM",
@@ -97,7 +97,7 @@
       "MSRP": "140.0",
       "QtyOnHand": "25",
       "QtyOnBackOrder": "15",
-      "Description": "Classic Nike Blazer Mid '77 shoes with a vintage feel."
+      "Description": "The Blazer Mid '70 is a classic and vintage-inspired sneaker from Nike that pays homage to the original Blazer model, which debuted in the 1970s. This shoe is part of Nike's retro collection, and it captures the essence of the original while incorporating modern materials and design elements."
     },
     {
       "Id": "ARFR",
@@ -108,7 +108,7 @@
       "MSRP": "180.0",
       "QtyOnHand": "80",
       "QtyOnBackOrder": "2",
-      "Description": "Timeless Nike Air Force 1 sneakers for everyday wear."
+      "Description": "One of the defining features of the Air Force 1 is its Air cushioning technology in the sole, providing superior impact protection and comfort. The cushioning unit is visible through a small window on the midsole, a characteristic feature that distinguishes the Air Force 1 from many other Nike models."
     },
 {
       "Id": "SUCL",
@@ -119,7 +119,7 @@
       "MSRP": "100.0",
       "QtyOnHand": "100",
       "QtyOnBackOrder": "0",
-      "Description": "Timeless Puma Suede Classic shoes with a retro design."
+      "Description": "The Air Force 1 features a low-top silhouette with a classic and straightforward design. The upper is typically made of premium leather, though there have been variations with different materials and textures over the years. The shoe's clean and simple lines, along with the prominent Nike Swoosh on the sides, contribute to its timeless appeal."
     },
     {
       "Id": "RSXT",
@@ -130,7 +130,7 @@
       "MSRP": "140.0",
       "QtyOnHand": "50",
       "QtyOnBackOrder": "5",
-      "Description": "Puma RS-X sneakers with a chunky and bold silhouette."
+      "Description": "Over the years, Puma has released numerous colorways of the Suede Classic, offering a variety of options to suit different style preferences. The shoe's popularity has also led to collaborations with designers, artists, and celebrities, resulting in limited editions and unique designs that have further elevated its status as a sought-after sneaker."
     },
     {
       "Id": "CYCT",
@@ -141,7 +141,7 @@
       "MSRP": "160.0",
       "QtyOnHand": "75",
       "QtyOnBackOrder": "0",
-      "Description": "Puma Clyde Court basketball shoes with stylish aesthetics."
+      "Description": "The outsole of the Puma Clyde Court features a durable rubber compound with a herringbone traction pattern. This design offers reliable grip and traction on various basketball court surfaces, allowing players to make quick cuts and movements with confidence. In terms of design, the Puma Clyde Court combines a modern aesthetic with retro-inspired elements."
     },
     {
       "Id": "CEVE",
@@ -152,7 +152,7 @@
       "MSRP": "120.0",
       "QtyOnHand": "25",
       "QtyOnBackOrder": "15",
-      "Description": "Puma Cell Venom sneakers inspired by '90s running shoes."
+      "Description": "The Puma Cell Venom features a retro-inspired design with a mix of materials in its upper. It typically combines breathable mesh, leather overlays, and synthetic materials to create a durable and stylish shoe. The upper design often includes bold color blocking and Puma branding elements, contributing to its distinct and eye-catching appearance. The defining feature of the Puma Cell Venom is its CELL technology."
     },
     {
       "Id": "FTYC",
@@ -163,7 +163,7 @@
       "MSRP": "180.0",
       "QtyOnHand": "80",
       "QtyOnBackOrder": "2",
-      "Description": "Puma Fenty Creeper shoes designed by Rihanna."
+      "Description": "The Puma Fenty Creeper is a highly popular and distinctive sneaker that is part of the Puma by Rihanna collaboration line. Introduced in 2015, this shoe was the result of a partnership between Puma and the renowned Barbadian singer, Rihanna, who served as the brand's Creative Director. The Fenty Creeper is an innovative and stylish fusion of Puma's classic Suede silhouette and a platform sole."
     },
  {
       "Id": "CLTH",
@@ -174,7 +174,7 @@
       "MSRP": "100.0",
       "QtyOnHand": "100",
       "QtyOnBackOrder": "40",
-      "Description": "Iconic Reebok sneaker with a clean and timeless design"
+      "Description": "The Reebok Classic Leather boasts a low-top silhouette with a clean and simple aesthetic. The upper is constructed using high-quality, smooth leather, providing durability and a premium feel. The design is characterized by the Reebok Vector logo on the side panels and minimal branding, giving the shoe a clean and versatile look. One of the standout features of the Reebok Classic Leather is its comfort and performance. "
     },
     {
       "Id": "NAOX",
@@ -185,7 +185,7 @@
       "MSRP": "160.0",
       "QtyOnHand": "50",
       "QtyOnBackOrder": "25",
-      "Description": "Cross-training shoe designed for high-intensity workouts"
+      "Description": "The Reebok Classic Leather boasts a low-top silhouette with a clean and simple aesthetic. The upper is constructed using high-quality, smooth leather, providing durability and a premium feel. The design is characterized by the Reebok Vector logo on the side panels and minimal branding, giving the shoe a clean and versatile look. One of the standout features of the Reebok Classic Leather is its comfort and performance. "
     },
     {
       "Id": "ZGKT",
@@ -196,7 +196,7 @@
       "MSRP": "140.0",
       "QtyOnHand": "15",
       "QtyOnBackOrder": "0",
-      "Description": "Modern running shoe with a unique zigzag sole"
+      "Description": "The most notable feature of the Reebok Zig Kinetica is its unique ZigTech midsole. The midsole is designed with a series of energy-returning zigzag-shaped foam blocks that run along the entire length of the shoe. These foam blocks compress and release energy with each stride, providing a springy and responsive feel, which helps propel the runner forward. The upper of the Zig Kinetica is typically constructed with a combination of breathable mesh and synthetic materials. "
     },
     {
       "Id": "CLBC",
@@ -207,7 +207,7 @@
       "MSRP": "120.99",
       "QtyOnHand": "80",
       "QtyOnBackOrder": "50",
-      "Description": "Vintage-inspired sneaker with a retro look"
+      "Description": "Over the years, Reebok has released numerous colorways and special editions of the Club C 85, giving fans a variety of options to suit their personal style preferences. The shoe's enduring popularity and nostalgic appeal have also led to collaborations with designers and artists, resulting in limited editions that appeal to sneaker collectors. The Reebok Club C 85's classic design, comfort, and style have made it an iconic sneaker that continues to resonate with sneaker lovers of all ages."
     },
     {
       "Id": "FTGY",
@@ -218,7 +218,7 @@
       "MSRP": "130.0",
       "QtyOnHand": "30",
       "QtyOnBackOrder": "10",
-      "Description": "Lightweight running shoe with responsive cushioning"
+      "Description": "The Reebok Floatride Energy is a performance running shoe designed to offer a balance of cushioning, responsiveness, and lightweight comfort. Introduced as part of Reebok's Floatride line, Floatride Energy is built to cater to both serious runners and casual athletes seeking high-quality running shoes. The Floatride Energy features a sleek and modern design with a low-top silhouette. "
     }
   ]
 
